@@ -4,7 +4,7 @@
     grid-template-columns: repeat(16, 1fr);
     grid-template-rows: repeat(16, 1fr);
     grid-gap: 1px;
-    background-color: black;
+    background-color: wheat;
     width: 400px;
     height: 400px;
     margin: 0 auto;
@@ -23,8 +23,8 @@
 
 
 .background-button {
-    margin-top: 60px;
-    margin-left: 20px;
+    margin-top: 140px;
+    margin-left: 80px;
     background: repeating-linear-gradient(
       45deg,
       #3c2209 0 20px,
