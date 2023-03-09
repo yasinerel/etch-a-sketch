@@ -5,3 +5,11 @@ const container = document.getElementById("grid-container");
         square.classList.add("square");
         container.appendChild(square);
 }
+
+
+const btn = document.querySelector('.button');
+btn.addEventListener('click', () => {
+    let favDrink = prompt("Number of squares per side for the new grid?");
+  
+});
+
